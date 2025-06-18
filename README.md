@@ -1,17 +1,11 @@
-# Sunghyuk Yoon — Cover Letter (Creative Edition)
+# 🍎 Apple Cover Letter Simulator
 
-This is my creative cover letter for the **Product Design FEA Team** at Apple, written not as a traditional document, but as a Swift-style structure that reflects how I think: systems-first, iteration-driven, and always curious.
+This fun little terminal simulation is not just a program—it's a story.  
+A reflection of who I am, what I’ve built, and why I want to build at Apple.
 
-### Why Code?
-Because I believe **how** you present your story can be just as meaningful as the story itself—especially when applying to a company that values both design and engineering.
+## ▶️ How to Run
 
-### What's in here?
-- `CoverLetter.swift` – a playful summary of my journey from music to machine learning, with a deep respect for systems, iteration, and Apple’s design philosophy.
+1. **Download** the Python file:
+apple_cover_sim.py
 
-### Want the formal version?
-You’ll find it in my application—but this is the one I hope makes you smile.
-
-Thanks for visiting!
-
-> “Design is not just what it looks like and feels like. Design is how it works.”  
-> — Steve Jobs
+2. **Run** the program in your terminal:
