@@ -7,7 +7,8 @@ import MachineLearning
 import AppleDream
 
 struct SunghyukYoon: Candidate {
-    let origin = "Seoul Music School"
+    let origin = ["Seoul Music School", "electric guitar player", ""
+    let now = "UCLA"
     let background = ["Electric Guitarist", "Debugger", "Builder"]
     let path = ["DSP", "Deep Learning", "Reinforcement Learning"]
     let mission = "Contribute to Apple’s Product Design FEA Team"
