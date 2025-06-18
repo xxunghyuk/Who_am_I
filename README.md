@@ -1,4 +1,4 @@
-# 🍎 Sunghyuk Yoon — Cover Letter (Creative Edition)
+# Sunghyuk Yoon — Cover Letter (Creative Edition)
 
 This is my creative cover letter for the **Product Design FEA Team** at Apple, written not as a traditional document, but as a Swift-style structure that reflects how I think: systems-first, iteration-driven, and always curious.
 
